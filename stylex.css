@@ -1,0 +1,18 @@
+body {
+    background-color:#F5F5F5;
+    }
+    <title>Document</title>
+    <link rel=”stylesheet” href=”style.css”>
+    <h1>Vai ser uma imagem aqui</h1>
+    <header>
+    <h1>Vai ser uma imagem aqui</h1>
+    <ul>
+    <li>Estudante</li>
+    <li>Escola</li>
+    </ul>
+    </header>
+    header {
+        background-color: #383D58;
+        color: white;
+        }
+
